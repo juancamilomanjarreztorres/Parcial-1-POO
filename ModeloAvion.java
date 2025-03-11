@@ -55,8 +55,8 @@ public class ModeloAvion {
 
     // Método para mostrar información del modelo de avión
     public void mostrarModeloAvion() {
-        System.out.println("✈ Modelo: " + getIdModelo());
-        System.out.println("🪑 Capacidad: " + getCapacidad() + " pasajeros");
+        System.out.println(" Modelo: " + getIdModelo());
+        System.out.println(" Capacidad: " + getCapacidad() + " pasajeros");
     }
 }
 
